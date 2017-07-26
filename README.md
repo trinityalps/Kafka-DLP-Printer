@@ -19,6 +19,6 @@ This is a daylight resin printer based off of the excellent design of the Criste
 
 ### Inspiration
 
-http://www.instructables.com/id/RooBee-One-SLA-DLP-Aluminum-Frame-3D-Printer/
-https://www.thingiverse.com/thing:1680172
-https://www.thingiverse.com/thing:2216068
+* http://www.instructables.com/id/RooBee-One-SLA-DLP-Aluminum-Frame-3D-Printer/
+* https://www.thingiverse.com/thing:1680172
+* https://www.thingiverse.com/thing:2216068
