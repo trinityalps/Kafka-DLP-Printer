@@ -1,5 +1,6 @@
 # Kafka-DLP-Printer
 *“the blend of absurd, surreal and mundane which gave rise to the adjective "kafkaesque”*
+
 A 3d resin printer based on the Cristelia printer and a few others. Discovering all the details needed to make this printer was a maddening process that involved, a japanese company, people from the uk, germany and poland, a mexican company and a non zero sum of going down rabbit holes. The goal of this project is to try to provide a detailed process that others can follow with less effort than what I had to put into getting this to work.
 
 
