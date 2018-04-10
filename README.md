@@ -4,7 +4,15 @@
 A 3d resin printer based on the Cristelia printer and a few others. Discovering all the details needed to make this printer was a maddening process that involved, a japanese company, people from the uk, germany and poland, a mexican company and a non zero sum of going down rabbit holes. The goal of this project is to try to provide a detailed process that others can follow with less effort than what I had to put into getting this to work.
 
 
-# This is a work in progress, check back for more details!
+# A post mortem 
+
+### What went wrong:
+
+To put it simply, this printer was complete on the hardware side, but the software side made it impossible. The issue is with so many different components, a raspberry pi 3, an adafruit experimental board, and a ipad screen, the control system was very glitchy. Motors would burn out, the screen never displayed correctly. Nanodlp is not a software suite designed for easy to modify coding, even getting it to run on an Raspberry pi proved difficult. Some weren't supported, the wifi glitched out, everything tended to have problems. 
+
+### What went wrong:
+
+My next step is to create my own 3d printer from scratch using custom firmware and software, I firmly believe that there is a way to create a cheap, useful sla printer using other avenues of research. From what I can gather using cell phone screens is risky as they can be unreliable, but mostly they are expensive and hard to connect to. Simplifying it to use standard gcode would make everything so much smoother. I am mostly done with the new version, however I am trying to start a company with it so stay tuned to see if I get funding!
 
 ### What is this:
 
